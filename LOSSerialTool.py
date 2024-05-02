@@ -39,11 +39,6 @@ officeString = bytes('Office System 1', 'ascii')
 officeOther = bytes('Office System ', 'ascii')
 lisaGuide = bytes('LisaGuide', 'ascii')
 
-# Make debozoed installations of LOS 2 and 3 tomorrow. Probably just update the 4 existing ones. And maybe copy all my files across all 4 installs.
-# Make sure a debozoed app will still work after we swap the VSROM (and SN) for another.
-# Make a Github page and some documentation.
-# Try XLerator with LOS 2!
-
 index = 0
 prevIndex = 0
 lowerCaseIndex = 0
